@@ -15,7 +15,7 @@ import AdbIcon from '@mui/icons-material/Adb';
 import Link from 'next/link';
 import { useRouter } from 'next/router';
 
-const pages = ['Products', 'MultiSlider', 'MuiSlider', 'Page'];
+const pages = ['Products', 'Multi-Slider', 'Mui-Slider', 'Page'];
 const settings = ['Profile', 'Account', 'Dashboard', 'Logout'];
 
 function Navbar() {
